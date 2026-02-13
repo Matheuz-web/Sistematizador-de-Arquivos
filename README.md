@@ -50,4 +50,4 @@ if __name__ == '__main__':
     print('Busca Interrompida com sucesso!')
     # linha pra tornar a teclada ENTER um catalizador pro script.
 
-# No fim para utilizar o script, basta copiar o caminho de algum arquivo e colar assim que rodar o codigo.
+# No fim, para utilizar o script basta copiar o caminho de algum arquivo e colar assim que rodar o codigo.
